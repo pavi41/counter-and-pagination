@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-size: 20px;
+}
+
+.app {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper {
+  margin: auto;
+  width: 50%;
+}
+
+h2 {
+  color: steelblue;
+  font-size: 30px;
+}
+
+table {
+  width: 100%;
+}
+
+thead {
+  font-size: 30px;
+  color: teal;
+}
+
+tbody {
+  font-size: 25px;
+  color: saddlebrown;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 30px;
+  cursor: pointer;
+  background-color: teal;
+  color: wheat;
+  font-size: 20px;
+  margin: 50px;
+}
